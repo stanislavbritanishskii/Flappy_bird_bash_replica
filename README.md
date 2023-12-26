@@ -28,7 +28,20 @@ This script simulates the Flappy Bird game using a Bash terminal. The player con
    cd Flappy_bird_bash_replica
    ./main.sh
 
+### Gameplay
+
+* Press the space bar to make the character jump.
+
+* Avoid collisions with the moving walls to stay alive.
+
+* The game will end if the character touches the walls.
+
 ### Controls
 
-#Space Bar:
-Jump
+Space Bar: Jump
+
+
+## Acknowledgments
+
+This game was created as a fun Bash scripting project and is inspired by the classic Flappy Bird game.
+
